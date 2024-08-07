@@ -1,3 +1,9 @@
-[submodule "backend"]
-	path = backend
+[submodule "api"]
+	path = api
 	url = git@github.com:sukiru-co/skills-api.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/sukiru-co/sukiru.wiki.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:sukiru-co/skills-frontend.git
