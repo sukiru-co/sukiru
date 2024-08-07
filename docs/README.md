@@ -13,6 +13,8 @@ Welcome to the AI Assistant project documentation! This section contains detaile
   - [Use Case Diagrams](architecture/use-case-diagram.md)
   - [Sequence Diagrams](architecture/sequence-diagrams.md)
   - [Data Flow Diagram](architecture/data-flow-diagram.md)
+- [Prompts](./propmts/README.md)
+  - [Assesments](./propmts/assestments/README.md)
 - [Setup](#setup)
   - [Backend Setup](setup/backend-setup.md)
   - [Frontend Setup](setup/frontend-setup.md)
