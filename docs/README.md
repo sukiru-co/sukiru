@@ -1,5 +1,3 @@
-### docs/README.md
-
 # Documentation
 
 Welcome to the AI Assistant project documentation! This section contains detailed information about various aspects of the project, including architecture, setup, API endpoints, frontend components, testing, and more. Use the table of contents below to navigate through the documentation.
