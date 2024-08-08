@@ -13,6 +13,8 @@ Welcome to the AI Assistant project documentation! This section contains detaile
   - [Use Case Diagrams](architecture/use-case-diagram.md)
   - [Sequence Diagrams](architecture/sequence-diagrams.md)
   - [Data Flow Diagram](architecture/data-flow-diagram.md)
+  - [Component Diagram](architecture/component-diagram.md)
+  - [Deployment Diagram](architecture/deployment-diagram.md)
 - [Setup](#setup)
   - [Backend Setup](setup/backend-setup.md)
   - [Frontend Setup](setup/frontend-setup.md)
@@ -35,6 +37,7 @@ Welcome to the AI Assistant project documentation! This section contains detaile
   - [Backend Testing](testing/backend-testing.md)
   - [Frontend Testing](testing/frontend-testing.md)
   - [End-to-End Testing](testing/end-to-end-testing.md)
+- [Prompts](#prompts)
 - [Changelog](#changelog)
 
 ## Overview
@@ -43,7 +46,7 @@ The AI Assistant system is designed to help managers and employees identify and 
 
 ## Architecture
 
-Detailed information about the system's architecture, including design principles, context maps, domain diagrams, use case diagrams, sequence diagrams, and data flow diagrams.
+Detailed information about the system's architecture, including design principles, context maps, domain diagrams, use case diagrams, sequence diagrams, data flow diagrams, component diagrams, and deployment diagrams.
 
 - [Overview](architecture/overview.md)
 - [Design Principles](architecture/design-principles.md)
@@ -52,6 +55,8 @@ Detailed information about the system's architecture, including design principle
 - [Use Case Diagrams](architecture/use-case-diagram.md)
 - [Sequence Diagrams](architecture/sequence-diagrams.md)
 - [Data Flow Diagram](architecture/data-flow-diagram.md)
+- [Component Diagram](architecture/component-diagram.md)
+- [Deployment Diagram](architecture/deployment-diagram.md)
 
 ## Setup
 
@@ -90,6 +95,13 @@ Instructions for running backend, frontend, and end-to-end tests, along with det
 - [Backend Testing](testing/backend-testing.md)
 - [Frontend Testing](testing/frontend-testing.md)
 - [End-to-End Testing](testing/end-to-end-testing.md)
+
+## Prompts
+
+Detailed documentation on the prompts used to train the AI model to proceed with the test, including making relevant questions and analyzing the answers to output the result.
+
+- [Prompt Guidelines](prompts/README.md)
+- [Prompt Examples](prompts/examples.md)
 
 ## Changelog
 
